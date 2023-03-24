@@ -1,22 +1,4 @@
 
-BhagirathiGeethanjali
-/
-c-programming
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-c-programming/assignment-2.c
-@BhagirathiGeethanjali
-BhagirathiGeethanjali Create assignment-2.c
- 1 contributor
-186 lines (148 sloc)  3.06 KB
 1.# include <stdio.h>
 
 void main()
